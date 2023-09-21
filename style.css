@@ -1,4 +1,14 @@
-h1 {
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.header__title {
+    background-color: rgb(207, 207, 207);
+    padding-top: 5rem;
+    text-transform: uppercase;
+    font-weight: 600;
     text-align: center;
-    background-color: grey;
+    padding-bottom: 3rem;
+    font-size: 3rem;
 }
